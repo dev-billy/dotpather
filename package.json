@@ -7,10 +7,7 @@
     "lint": "standard index.js test/index.js",
     "test": "node test/index.js && npm run lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jarofghosts/dotpather.git"
-  },
+  "repository": "https://github.com/jarofghosts/dotpather.git",
   "keywords": [
     "dotpath",
     "utility"
